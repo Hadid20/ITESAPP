@@ -1,7 +1,7 @@
 // fecth data api
 
 function getData() {
-  fetch("https://hadid20.github.io/ITESAPP/src/asseet/data.json")
+  fetch("../asseet/data.json")
     .then((Response) => Response.json())
     .then((data) => {
       const dataJSON = data.products;
