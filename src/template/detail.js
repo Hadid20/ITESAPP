@@ -7,7 +7,7 @@ const getData = () => {
 
   // Fetch detail produk berdasarkan ID (di sini hanya contoh statis)
   const products = async () => {
-    fetch("https://hadid20.github.io/PILgusticode/src/asseet/data.json")
+    fetch("https://hadid20.github.io/ITESAPP/src/asseet/data.json")
       .then((response) => response.json()) //  Replace with your API endpoint
       .then((data) => {
         // const productsid = data.products.filter(

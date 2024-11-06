@@ -7,7 +7,7 @@ function createNavbar() {
   <div class="inline-flex">
       <a class="" href="#"
           ><div class="block h-full">
-          <img src="https://hadid20.github.io/PILgusticode/src/asseet/ITES.png" class="max-w-52"> 
+          <img src="https://hadid20.github.io/ITESAPP/src/asseet/ITES.png" class="max-w-52"> 
           </div>
          
       </a>

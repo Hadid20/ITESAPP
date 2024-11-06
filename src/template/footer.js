@@ -7,7 +7,7 @@ function createFooter() {
 <div class="container flex flex-col mx-auto">
 <div class="flex flex-col items-center w-full my-5">
 <span class="mb-8">
-<img src="../asseet/ITES.png" class="max-w-52"> 
+<img src="https://hadid20.github.io/ITESAPP/src/asseet/ITES.png" class="max-w-52"> 
 
 </span>
 <div class="flex flex-col items-center gap-6 mb-8">
