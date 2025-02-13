@@ -5,7 +5,7 @@ function getData() {
     .then((Response) => Response.json())
     .then((data) => {
       const dataJSON = data.products;
-
+      console.log(data);
       const dataTopRatings = dataJSON
         .sort((a, b) => b.ratings - a.ratings)
         .slice(0, 8);
