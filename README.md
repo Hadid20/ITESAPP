@@ -11,8 +11,8 @@ Selamat datang di repositori resmi untuk **ITESAPP**, sebuah aplikasi berbasis w
 
 ## 🛠️ Teknologi yang Digunakan
 - HTML5 & CSS3
+- TailwindCss
 - JavaScript
-- Vue.js & Nuxt UI *(jika sesuai)*
 - GitHub Pages untuk deployment
 
 
